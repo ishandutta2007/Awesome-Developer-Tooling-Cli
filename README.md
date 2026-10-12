@@ -67,7 +67,7 @@ The following table benchmarks category-leading hosted developer platforms and t
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of developer tools, terminal companions, and API clients. Sorted in descending order by **GitHub Stars_Count (⭐)**. Every Stars_Badge links directly to the project's stargazers community page.
+Curated list of developer tools, terminal companions, and API clients. Sorted in descending order by **GitHub_Stars_Count (⭐)**. Every Stars_Badge links directly to the project's stargazers community page.
 
 | Repository | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
