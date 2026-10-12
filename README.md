@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Awesome Developer Tooling CLI Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/ishandutta2007/Awesome-Developer-Tooling-Cli/main/assets/banner.svg" alt="Awesome Developer Tooling CLI Banner" width="100%" />
 
 # ⚡ Awesome Developer Tooling CLI 🛠️
 
