@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tooling-Cli/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tooling-Cli?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Developer-Tooling-Cli/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Developer-Tooling-Cli?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Tooling-Cli/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Developer-Tooling-Cli?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Developer-Tooling-Cli/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -67,9 +67,9 @@ The following table benchmarks category-leading hosted developer platforms and t
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of developer tools, terminal companions, and API clients. Sorted in descending order by **GitHub Star Count (⭐)**. Every star badge links directly to the project's stargazers community page.
+Curated list of developer tools, terminal companions, and API clients. Sorted in descending order by **GitHub Stars_Count (⭐)**. Every Stars_Badge links directly to the project's stargazers community page.
 
-| Repository | Stars | License | Description |
+| Repository | GitHub_Stars | License | Description |
 | :--- | :--- | :--- | :--- |
 | **[astral-sh/uv](https://github.com/astral-sh/uv)** | [![Stars](https://img.shields.io/github/stars/astral-sh/uv?style=social&color=white)](https://github.com/astral-sh/uv/stargazers) | Apache-2.0 / MIT | Blazing-fast Python package installer and resolver written in Rust. Drop-in replacement for `pip`, `pip-tools`, and `virtualenv`. |
 | **[junegunn/fzf](https://github.com/junegunn/fzf)** | [![Stars](https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white)](https://github.com/junegunn/fzf/stargazers) | MIT | General-purpose interactive command-line fuzzy finder with async search, preview windows, and shell bindings. |
